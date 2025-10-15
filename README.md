@@ -1,2 +1,3 @@
 Este portfólio foi desenvolvido por mim utilizando um pouco dos meus conhecimentos em html e css. Ele representa o início da minha jornada na área de tecnologia e desenvolvimento web. O objetivo principal foi criar um espaço para apresentar meus conhecimentos e projetos , além de praticar os meus conhecimentos nessas áreas.
 Com o tempo, pretendo melhorar fazendo com que meus sites sejam cada vez mais interativo.
+https://duda-02.github.io/Portifoli/
